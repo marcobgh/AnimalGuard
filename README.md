@@ -1,0 +1,3 @@
+
+# Equipe
+| [<img src="https://avatars.githubusercontent.com/u/165439921?v=4" width=115><br><sub>Vinicius</sub>](https://github.com/viniciusscholtze) |  [<img src="https://avatars.githubusercontent.com/u/75136675?v=4" width=115><br><sub>Marco</sub>](https://github.com/Chubbaccas) | [<img src="https://avatars.githubusercontent.com/u/115050869?v=4" width=115><br><sub>Cauana</sub>](https://github.com/caursnn) |  [<img src="https://avatars.githubusercontent.com/u/125486974?v=4" width=115><br><sub>Maria </sub>](https://github.com/mariaglx) |  [<img src="https://avatars.githubusercontent.com/u/166075318?v=4" width=115><br><sub>João</sub>](https://github.com/jaogz) 
