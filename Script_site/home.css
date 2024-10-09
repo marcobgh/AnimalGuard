@@ -1,8 +1,12 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap');
 
-header {
+html {
     font-family: "fredoka", sans-serif;
+    font-size: 20px;
+}
+
+header {
     background-color: whitesmoke;
     color: #3C608F;
     font-size: 20px;
@@ -29,8 +33,15 @@ ul{
     
 }
 
-.paginas{
-    
+button {
+    font-family: "fredoka", sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.entre {
+    background-color: whitesmoke;
+    border-style: none;
 }
 
 .cadastre-se {
@@ -39,3 +50,27 @@ ul{
     border-radius: 10px;
     padding: 5px;
 }
+
+.banner {
+
+    width: auto;
+    height: 547px;
+    padding-left: 927px;
+    
+}
+
+.degrade {
+    position: absolute;
+    width: 1920px;
+    height: 547px;
+    flex-shrink: 0;
+    background: linear-gradient(90deg, rgba(60, 96, 143, 0.96) 0%, #76859E 53%, rgba(186, 177, 177, 0.00) 85.1%);
+}
+
+.div-banner p {
+    position: absolute;
+    width: 558px;
+    height: 47px;
+    flex-shrink: 0;
+}
+
