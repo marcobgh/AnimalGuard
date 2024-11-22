@@ -13,6 +13,7 @@ O Animal Guard foi projetado para atender as seguintes necessidades:
 Aqui estão as principais funcionalidades do sistema, baseadas nos requisitos do projeto:
 
 **Cadastro e Gerenciamento de Usuários**
+
 - Cadastro de novos usuários com dados obrigatórios (nome, CPF, telefone, e-mail, senha) e dados opcionais complementares (endereço, acessibilidade, preferências, etc.).
 - Login com e-mail/CPF e senha.
 - Exclusão de contas, exceto durante processos ativos de adoção ou resgate.
@@ -24,6 +25,23 @@ Aqui estão as principais funcionalidades do sistema, baseadas nos requisitos do
 - Busca e sugestão de animais desaparecidos com base em características semelhantes.
 - Cadastro de informações detalhadas de cada animal (características físicas, estado de saúde, vacinas, etc.).
 - Linha do tempo com eventos e atualizações de cada animal (exemplo: resgate → assistência médica → adoção).
+
+**Processos de Adoção**
+
+- Navegação por animais disponíveis para adoção com filtros avançados.
+- Sistema de comunicação entre colaboradores e adotantes para garantir adoções responsáveis.
+- Acompanhamento de adoções com notificações por e-mail/push.
+- Avaliação pós-adoção para verificar o bem-estar do animal.
+  
+**Notificações e Avaliações**
+
+- Notificações sobre status de resgates, adoções ou reivindicações.
+- Histórico de interações com animais adotados ou resgatados.
+- Avaliação final dos processos, com notas, comentários e fotos.
+- Doações e Colaboração
+- Canal seguro para doações solidárias monitorado por colaboradores.
+- Cadastro e gerenciamento de colaboradores, veterinários e clínicas veterinárias.
+
 # Equipe
 
 [<img src="https://avatars.githubusercontent.com/u/165439921?v=4" width="115">](https://github.com/viniciusscholtze)
