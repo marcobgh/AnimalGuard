@@ -10,6 +10,7 @@ Garantir a transparência e o bem-estar dos animais durante todo o processo.
 Oferecer suporte a ONGs, abrigos e clínicas veterinárias.
 
 ##**🌟 Funcionalidades**
+
 Aqui estão as principais funcionalidades do sistema, baseadas nos requisitos do projeto:
 
 Cadastro e Gerenciamento de Usuários
