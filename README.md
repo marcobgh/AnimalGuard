@@ -9,7 +9,8 @@ O Animal Guard foi projetado para atender as seguintes necessidades:
 - Garantir a transparência e o bem-estar dos animais durante todo o processo.
 - Oferecer suporte a ONGs, abrigos e clínicas veterinárias.
 
-
+## **🌟 Funcionalidades**
+Aqui estão as principais funcionalidades do sistema, baseadas nos requisitos do projeto:
 # Equipe
 
 [<img src="https://avatars.githubusercontent.com/u/165439921?v=4" width="115">](https://github.com/viniciusscholtze)
