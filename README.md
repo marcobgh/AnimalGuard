@@ -1,5 +1,5 @@
 <img src="https://github.com/marcobgh/AnimalGuard_V2/blob/main/imagens/Logo%20AnimalGuard.png?raw=true" width="115">
-**Animal Guard** é um sistema completo para gerenciamento de animais perdidos, resgatados e disponíveis para adoção. Ele oferece soluções práticas e tecnológicas para conectar pessoas interessadas em ajudar animais a encontrá-los, adotá-los ou contribuir com seu bem-estar.
+Animal Guard é um sistema completo para gerenciamento de animais perdidos, resgatados e disponíveis para adoção. Ele oferece soluções práticas e tecnológicas para conectar pessoas interessadas em ajudar animais a encontrá-los, adotá-los ou contribuir com seu bem-estar.
 
 Este projeto integra conhecimentos de banco de dados, engenharia de software e programação, proporcionando uma experiência inclusiva e eficiente para usuários e colaboradores.
 
