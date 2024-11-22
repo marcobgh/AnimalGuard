@@ -44,6 +44,13 @@ Aqui estão as principais funcionalidades do sistema, baseadas nos requisitos do
 - Canal seguro para doações solidárias monitorado por colaboradores.
 - Cadastro e gerenciamento de colaboradores, veterinários e clínicas veterinárias.
 
+## **🛠️ Tecnologias Utilizadas**
+- Back-end: Java
+- Front-end: 
+- Banco de Dados: PostgreSQL, DBeaver
+- Outras Ferramentas: APIs de geolocalização, Visual Paradigm
+
+
 # Equipe
 
 [<img src="https://avatars.githubusercontent.com/u/165439921?v=4" width="115">](https://github.com/viniciusscholtze)
