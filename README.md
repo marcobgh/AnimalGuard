@@ -49,7 +49,7 @@ Aqui estão as principais funcionalidades do sistema, baseadas nos requisitos do
 - Back-end: Java
 - Front-end: 
 - Banco de Dados: PostgreSQL, DBeaver
-- Outras Ferramentas: APIs de geolocalização, Visual Paradigm
+- Outras Ferramentas: APIs de geolocalização, Visual Paradigm, Figma
 
 
 ## **🤝 Colaboradores**
