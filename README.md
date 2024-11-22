@@ -46,10 +46,10 @@ Aqui estão as principais funcionalidades do sistema, baseadas nos requisitos do
 - Cadastro e gerenciamento de colaboradores, veterinários e clínicas veterinárias.
 
 ## **🛠️ Tecnologias Utilizadas**
-- Back-end: Java
-- Front-end: Figma, HTML, CSS  
-- Banco de Dados: PostgreSQL, DBeaver
-- Outras Ferramentas: APIs de geolocalização, Visual Paradigm
+- Back-end: Java.
+- Front-end: Figma, HTML, CSS.  
+- Banco de Dados: PostgreSQL, DBeaver.
+- Outras Ferramentas: APIs de geolocalização, Visual Paradigm, Notion.
 
 
 ## **🤝 Colaboradores**
