@@ -4,10 +4,10 @@ Animal Guard é um sistema integrado para facilitar o cadastro, a adoção e a l
 ## **📖 Descrição Geral**
 O Animal Guard foi projetado para atender as seguintes necessidades:
 
-Facilitar o registro e busca por animais desaparecidos.
-Conectar animais resgatados com seus donos ou novos tutores.
-Garantir a transparência e o bem-estar dos animais durante todo o processo.
-Oferecer suporte a ONGs, abrigos e clínicas veterinárias.
+- Facilitar o registro e busca por animais desaparecidos.
+- Conectar animais resgatados com seus donos ou novos tutores.
+- Garantir a transparência e o bem-estar dos animais durante todo o processo.
+- Oferecer suporte a ONGs, abrigos e clínicas veterinárias.
 
 
 # Equipe
