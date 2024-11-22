@@ -11,6 +11,13 @@ O Animal Guard foi projetado para atender as seguintes necessidades:
 
 ## **🌟 Funcionalidades**
 Aqui estão as principais funcionalidades do sistema, baseadas nos requisitos do projeto:
+
+- Cadastro e Gerenciamento de Usuários
+- Cadastro de novos usuários com dados obrigatórios (nome, CPF, telefone, e-mail, senha) e dados opcionais complementares (endereço, acessibilidade, preferências, etc.).
+- Login com e-mail/CPF e senha.
+- Exclusão de contas, exceto durante processos ativos de adoção ou resgate.
+- Gestão de permissões para colaboradores e veterinários.
+
 # Equipe
 
 [<img src="https://avatars.githubusercontent.com/u/165439921?v=4" width="115">](https://github.com/viniciusscholtze)
