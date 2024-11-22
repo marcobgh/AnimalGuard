@@ -1,4 +1,4 @@
-[<img src="https://github.com/marcobgh/AnimalGuard_V2/blob/main/imagens/Logo%20AnimalGuard.png?raw=true" width="115">]
+<img src="(https://github.com/marcobgh/AnimalGuard_V2/blob/main/imagens/Logo%20AnimalGuard.png?raw=true)" width="115">
 
 # Equipe
 
