@@ -54,8 +54,7 @@ Aqui estão as principais funcionalidades do sistema, baseadas nos requisitos do
 
 ## **🤝 Colaboradores**
 
-[<img src="https://avatars.githubusercontent.com/u/165439921?v=4" width="115">](https://github.com/viniciusscholtze)
-[<img src="https://avatars.githubusercontent.com/u/75136675?v=4" width="115">](https://github.com/Chubbaccas)
-[<img src="https://avatars.githubusercontent.com/u/115050869?v=4" width="115">](https://github.com/caursnn)
-[<img src="https://avatars.githubusercontent.com/u/125486974?v=4" width="115">](https://github.com/mariaglx)
-[<img src="https://avatars.githubusercontent.com/u/166075318?v=4" width="115">](https://github.com/jaogz)
+| ![Caursnn](https://avatars.githubusercontent.com/u/115050869?v=4) | ![Chubbaccas](https://avatars.githubusercontent.com/u/75136675?v=4) | ![Jaogz](https://avatars.githubusercontent.com/u/166075318?v=4) | ![Maria Glx](https://avatars.githubusercontent.com/u/125486974?v=4) | ![Vinicius Scholtze](https://avatars.githubusercontent.com/u/165439921?v=4) |
+|:-----------------------------------------------------------------:|:------------------------------------------------------------------:|:----------------------------------------------------------------:|:-----------------------------------------------------------------:|:--------------------------------------------------------------------:|
+| [Caursnn](https://github.com/caursnn)                              | [Chubbaccas](https://github.com/Chubbaccas)                       | [Jaogz](https://github.com/jaogz)                               | [Maria Glx](https://github.com/mariaglx)                         | [Vinicius Scholtze](https://github.com/viniciusscholtze)           |
+
