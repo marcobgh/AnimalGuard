@@ -47,9 +47,9 @@ Aqui estão as principais funcionalidades do sistema, baseadas nos requisitos do
 
 ## **🛠️ Tecnologias Utilizadas**
 - Back-end: Java
-- Front-end: 
+- Front-end: Figma, HTML, CSS  
 - Banco de Dados: PostgreSQL, DBeaver
-- Outras Ferramentas: APIs de geolocalização, Visual Paradigm, Figma
+- Outras Ferramentas: APIs de geolocalização, Visual Paradigm
 
 
 ## **🤝 Colaboradores**
