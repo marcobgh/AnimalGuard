@@ -1,14 +1,14 @@
 <img src="https://github.com/marcobgh/AnimalGuard_V2/blob/main/imagens/Logo%20AnimalGuard.png?raw=true" width="115">
-Animal Guard é um sistema integrado para facilitar o cadastro, a adoção e a localização de animais em busca de um lar. Desenvolvido como um projeto acadêmico, ele combina conceitos de banco de dados, engenharia de software e programação, oferecendo uma solução prática para ONGs, abrigos e amantes dos animais.
+##**Animal Guard** é um sistema integrado para facilitar o cadastro, a adoção e a localização de animais em busca de um lar. Desenvolvido como um projeto acadêmico, ele combina conceitos de banco de dados, engenharia de software e programação, oferecendo uma solução prática para ONGs, abrigos e amantes dos animais.
 
-📖 Descrição Geral
+## **📖 Descrição Geral**
 O Animal Guard foi projetado para atender as seguintes necessidades:
 
 Facilitar o registro e busca por animais desaparecidos.
 Conectar animais resgatados com seus donos ou novos tutores.
 Garantir a transparência e o bem-estar dos animais durante todo o processo.
 Oferecer suporte a ONGs, abrigos e clínicas veterinárias.
-🌟 Funcionalidades
+##**🌟 Funcionalidades**
 Aqui estão as principais funcionalidades do sistema, baseadas nos requisitos do projeto:
 
 Cadastro e Gerenciamento de Usuários
@@ -33,7 +33,7 @@ Avaliação final dos processos, com notas, comentários e fotos.
 Doações e Colaboração
 Canal seguro para doações solidárias monitorado por colaboradores.
 Cadastro e gerenciamento de colaboradores, veterinários e clínicas veterinárias.
-🛠️ Tecnologias Utilizadas
+##**🛠️ Tecnologias Utilizadas**
 Back-end: Node.js ou Python (Django)
 Front-end: React ou Angular
 Banco de Dados: MySQL ou PostgreSQL
