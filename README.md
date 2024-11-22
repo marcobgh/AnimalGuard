@@ -17,7 +17,9 @@ Aqui estão as principais funcionalidades do sistema, baseadas nos requisitos do
 - Login com e-mail/CPF e senha.
 - Exclusão de contas, exceto durante processos ativos de adoção ou resgate.
 - Gestão de permissões para colaboradores e veterinários.
+  
 **Gestão de Animais**
+
 - Cadastro de animais perdidos, resgatados ou abandonados.
 - Busca e sugestão de animais desaparecidos com base em características semelhantes.
 - Cadastro de informações detalhadas de cada animal (características físicas, estado de saúde, vacinas, etc.).
