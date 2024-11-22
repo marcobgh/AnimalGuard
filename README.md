@@ -1,4 +1,4 @@
-<img src="https://github.com/marcobgh/AnimalGuard_V2/blob/main/imagens/Logo%20AnimalGuard.png?raw=true" width="150">
+<img src="https://github.com/marcobgh/AnimalGuard_V2/blob/main/imagens/Logo%20AnimalGuard.png?raw=true" width="200">
 
 Animal Guard é um sistema integrado para facilitar o cadastro, a adoção e a localização de animais em busca de um lar. Desenvolvido como um projeto acadêmico, ele combina conceitos de banco de dados, engenharia de software e programação, oferecendo uma solução prática para ONGs, abrigos e amantes dos animais.
 
