@@ -38,7 +38,9 @@ Aqui estão as principais funcionalidades do sistema, baseadas nos requisitos do
 - Notificações sobre status de resgates, adoções ou reivindicações.
 - Histórico de interações com animais adotados ou resgatados.
 - Avaliação final dos processos, com notas, comentários e fotos.
-- Doações e Colaboração
+  
+**Doações e Colaboração**
+
 - Canal seguro para doações solidárias monitorado por colaboradores.
 - Cadastro e gerenciamento de colaboradores, veterinários e clínicas veterinárias.
 
