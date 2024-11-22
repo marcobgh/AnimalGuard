@@ -54,14 +54,11 @@ Aqui estão as principais funcionalidades do sistema, baseadas nos requisitos do
 
 ## **🤝 Colaboradores**
 
-[<img src="https://avatars.githubusercontent.com/u/165439921?v=4" width="115">](https://github.com/viniciusscholtze)  
-**Vinicius Scholtze** &nbsp;&nbsp; 
-[<img src="https://avatars.githubusercontent.com/u/75136675?v=4" width="115">](https://github.com/Chubbaccas)  
-**Chubbaccas** &nbsp;&nbsp;
-[<img src="https://avatars.githubusercontent.com/u/115050869?v=4" width="115">](https://github.com/caursnn)  
-**Caursnn** &nbsp;&nbsp;
-[<img src="https://avatars.githubusercontent.com/u/125486974?v=4" width="115">](https://github.com/mariaglx)  
-**Maria Glx** &nbsp;&nbsp;
-[<img src="https://avatars.githubusercontent.com/u/166075318?v=4" width="115">](https://github.com/jaogz)  
-**Jaogz**
+| [<img src="https://avatars.githubusercontent.com/u/165439921?v=4" width="115">](https://github.com/viniciusscholtze) | [<img src="https://avatars.githubusercontent.com/u/75136675?v=4" width="115">](https://github.com/Chubbaccas) | [<img src="https://avatars.githubusercontent.com/u/115050869?v=4" width="115">](https://github.com/caursnn) |
+|:-----------------------------------------------------------------------:|:--------------------------------------------------------------------------:|:-----------------------------------------------------------------------:|
+| **Vinicius Scholtze**                                                   | **Chubbaccas**                                                            | **Caursnn**                                                              |
+
+| [<img src="https://avatars.githubusercontent.com/u/125486974?v=4" width="115">](https://github.com/mariaglx) | [<img src="https://avatars.githubusercontent.com/u/166075318?v=4" width="115">](https://github.com/jaogz) |
+|:-----------------------------------------------------------------------:|:--------------------------------------------------------------------------:|
+| **Maria Glx**                                                           | **Jaogz**                                                                 |
 
