@@ -51,7 +51,7 @@ Aqui estão as principais funcionalidades do sistema, baseadas nos requisitos do
 - Outras Ferramentas: APIs de geolocalização, Visual Paradigm
 
 
-## **🤝 Contribuidores**
+## **🤝 Colaboradores**
 
 [<img src="https://avatars.githubusercontent.com/u/165439921?v=4" width="115">](https://github.com/viniciusscholtze)
 [<img src="https://avatars.githubusercontent.com/u/75136675?v=4" width="115">](https://github.com/Chubbaccas)
