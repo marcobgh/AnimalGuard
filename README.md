@@ -55,17 +55,13 @@ Aqui estão as principais funcionalidades do sistema, baseadas nos requisitos do
 ## **🤝 Colaboradores**
 
 [<img src="https://avatars.githubusercontent.com/u/165439921?v=4" width="115">](https://github.com/viniciusscholtze)  
-**Vinicius Scholtze**
-
+**Vinicius Scholtze** &nbsp;&nbsp; 
 [<img src="https://avatars.githubusercontent.com/u/75136675?v=4" width="115">](https://github.com/Chubbaccas)  
-**Chubbaccas**
-
+**Chubbaccas** &nbsp;&nbsp;
 [<img src="https://avatars.githubusercontent.com/u/115050869?v=4" width="115">](https://github.com/caursnn)  
-**Caursnn**
-
+**Caursnn** &nbsp;&nbsp;
 [<img src="https://avatars.githubusercontent.com/u/125486974?v=4" width="115">](https://github.com/mariaglx)  
-**Maria Glx**
-
+**Maria Glx** &nbsp;&nbsp;
 [<img src="https://avatars.githubusercontent.com/u/166075318?v=4" width="115">](https://github.com/jaogz)  
 **Jaogz**
 
