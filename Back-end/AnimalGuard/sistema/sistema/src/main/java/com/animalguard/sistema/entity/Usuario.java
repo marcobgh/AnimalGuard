@@ -1,49 +1,39 @@
 package com.animalguard.sistema.entity;
 
 import jakarta.persistence.*;
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
 
-import java.util.Date;
+import java.io.Serializable;
 
-@Entity
-@Table(name = "usuario")
 @Getter
 @Setter
 @AllArgsConstructor
 @NoArgsConstructor
-public class Usuario {
+@Entity
+@SequenceGenerator(name="seq_usuario", sequenceName = "seq_usuario", allocationSize=1, initialValue=1)
+public class Usuarios implements Serializable {
+    private static final long serialVersionUID = 1L;
 
     @Id
-    @GeneratedValue
-    @Column(nullable = false, unique = true)
+    @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "seq_usuario")
     private Long id;
 
-    @Column(nullable = false)
     private String nome;
 
-    @Column(nullable = false)
-    private Date dataNascimento;
+    private String dataNascimento;
 
-    @Column(nullable = false, unique = true)
     private String cpf;
 
-    @Column(nullable = false, unique = true)
     private String email;
 
-    @Column(nullable = false)
     private String senha;
 
-    @Column(nullable = false)
     private String telefone;
 
-    @Column(nullable = false)
     private String genero;
 
-    @Column(nullable = false)
-    private Date dataCadastro;
-
-    @ManyToOne
-    @JoinColumn
-    private Endereco endereco;
-
+    private String dataCadastro;
 }
