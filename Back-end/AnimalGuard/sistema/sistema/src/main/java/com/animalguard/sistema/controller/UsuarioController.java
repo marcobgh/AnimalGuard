@@ -16,14 +16,19 @@ public class UsuarioController {
     @Autowired
     private UsuarioService usuarioService;
 
-    @PostMapping
-    public Usuario save(@RequestBody Usuario usuario) {
-        return usuarioService.salvarUsuario(usuario.getNome(), usuario.getCpf(),usuario.getTelefone());
+    @PostMapping(value = "adicionarUsuario")
+    @ResponseBody
+    public ResponseEntity<Usuarios>salvar(@RequestBody Usuarios usuario) {
+        Usuarios usuarioSalvo = usuarioRepository.save(usuario);
+        return new ResponseEntity<Usuarios>(usuarioSalvo, HttpStatus.CREATED);
     }
 
-    @GetMapping
-    public List<Usuario> findAll() {
-        return usuarioService.listarUsuarios();
+    @GetMapping(value = "listarTodosUsuarios")
+    @ResponseBody
+    public ResponseEntity<List<Usuarios>> listarUsuarios() {
+        List<Usuarios> usuariosList = usuarioRepository.findAll();
+        return new ResponseEntity<List<Usuarios>>(usuariosList, HttpStatus.OK);
     }
+
 
 }
