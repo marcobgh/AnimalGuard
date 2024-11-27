@@ -16,9 +16,18 @@ public class EnderecoController {
     @Autowired
     private EnderecoService enderecoService;
 
-    @PostMapping
-    public Endereco save(@RequestBody Endereco endereco) {
-        return enderecoService.salvarEndereco(endereco.getRua(), endereco.getBairro(), endereco.getComplemento(), endereco.getCidade(), endereco.getEstado(), endereco.getCep());
+    @PostMapping(value = "salvarEndereco")
+    @ResponseBody
+    private ResponseEntity<Enderecos> salvar(@RequestBody Enderecos enderecos) {
+        Enderecos enderecosSalvo = enderecoRepository.save(enderecos);
+        return new ResponseEntity<Enderecos>(enderecosSalvo, HttpStatus.CREATED);
+    };
+
+    @PostMapping(value = "listarTodosEndereco")
+    @ResponseBody
+    private ResponseEntity<List<Enderecos>> listarEndereco() {
+        List<Enderecos> listaEnderecos = enderecoRepository.findAll();
+        return new ResponseEntity<List<Enderecos>>(listaEnderecos, HttpStatus.OK);
     }
 
 
