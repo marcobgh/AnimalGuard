@@ -1,20 +1,19 @@
 package com.animalguard.sistema.controller;
 
-import com.animalguard.sistema.entity.Usuario;
-import com.animalguard.sistema.service.UsuarioService;
+import com.AnimalGuard.project.model.Usuarios;
+import com.AnimalGuard.project.repositories.UsuarioRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
-import java.util.Optional;
 
 @RestController
-@RequestMapping("/usuario")
 public class UsuarioController {
 
     @Autowired
-    private UsuarioService usuarioService;
+    private UsuarioRepository usuarioRepository;
 
     @PostMapping(value = "adicionarUsuario")
     @ResponseBody
