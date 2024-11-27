@@ -1,20 +1,19 @@
 package com.animalguard.sistema.controller;
 
-import com.animalguard.sistema.entity.Endereco;
-import com.animalguard.sistema.entity.Usuario;
-import com.animalguard.sistema.service.EnderecoService;
-import com.animalguard.sistema.service.UsuarioService;
+import com.AnimalGuard.project.model.Enderecos;
+import com.AnimalGuard.project.repositories.EnderecoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
 @RestController
-@RequestMapping("/endereco")
 public class EnderecoController {
 
     @Autowired
-    private EnderecoService enderecoService;
+    private EnderecoRepository enderecoRepository;
 
     @PostMapping(value = "salvarEndereco")
     @ResponseBody
@@ -23,12 +22,9 @@ public class EnderecoController {
         return new ResponseEntity<Enderecos>(enderecosSalvo, HttpStatus.CREATED);
     };
 
-    @PostMapping(value = "listarTodosEndereco")
+    @PostMapping(value = "listarTodosEnderecos")
     @ResponseBody
     private ResponseEntity<List<Enderecos>> listarEndereco() {
         List<Enderecos> listaEnderecos = enderecoRepository.findAll();
         return new ResponseEntity<List<Enderecos>>(listaEnderecos, HttpStatus.OK);
     }
-
-
-}
